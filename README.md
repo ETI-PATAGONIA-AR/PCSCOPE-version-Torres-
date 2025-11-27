@@ -13,6 +13,7 @@ En realidad hice varias versiones y las que mas se amoldan a algo amateur/aficio
 <img width="888" height="548" alt="pcscope_v1_4" src="https://github.com/user-attachments/assets/8052dcc9-e89a-467d-a705-d5fcad14d1cb" />
 
 _**Tengan en cuenta que la version 1.4b es DUAL (OLED o salida serial al software), pero no se puede usar en proteus**_
+
 Bien, ahora de seguro que se preguntaran por que la versión 1.4b no funciona en proteus… Antes que nada, trate de mantener la idea intacta de tener algo ágil 
 y que este dentro del ancho de banda del proyecto original... Para poder llegar a la consigna, implemente la librería U8g2 que es mucho más liviana en RAM y 
 flash, especialmente en micros tipo ATmega328 (Arduino UNO / Nano); Además, el SH1106/ SSD1306 funciona más rápido y más estable con esa librería, ya que 
