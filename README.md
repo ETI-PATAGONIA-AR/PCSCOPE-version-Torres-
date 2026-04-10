@@ -1,4 +1,4 @@
-# PSCOPE
+# PCSCOPE
 Hace poco llegue por casualidad al siguiente post: https://www.forosdeelectronica.com/threads/aporte-osciloscopio-en-base-a-una-pc-con-arduino.169001/
 y me parecio muy buen aporte este diseño de osciloscopio ARDUINO que trabaja via serial con un software que corre en Window... El proyecto esta basado en 
 EFY PC Oscilloscope (Balaji Ramalingam, Bosch) y se me ocurrio hacer una version que permita usar un oled, o el puerto serial con el software... 
